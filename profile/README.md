@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/SargamArchives">
-        <img height="100px" width="100px" src="/assets/logo.png" align="center" alt="Logo for Sargam Archives"/>
+        <img height="100px" width="100px" src="/profile/assets/logo.png" align="center" alt="Logo for Sargam Archives"/>
     </a>
 </p>
 <h1 align="center" style="border: 0;"> SargamArchives </h1>
